@@ -298,7 +298,7 @@ textarea:focus {
   padding: 18px;
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 12px;
   box-shadow: var(--card-shadow);
   box-sizing: border-box;
 }
