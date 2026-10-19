@@ -627,8 +627,7 @@ input:checked + .slider:before { transform: translateX(26px); }
   -webkit-line-clamp: 6;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  text-align: justify;
-}
+  text-align: left; line-height: 1.5;
 
 .clamped-bio.expanded {
   display: block;
