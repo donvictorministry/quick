@@ -1,4 +1,4 @@
-const CACHE_NAME = 'quick-snippets-v2';
+const CACHE_NAME = 'quick-snippets-v3';
 const STATIC_ASSETS = [
   './',
   './index.html',
